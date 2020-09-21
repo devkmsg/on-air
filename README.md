@@ -34,3 +34,8 @@ To start On-Air whenever you log in, you'll need to add the same plist to `~/Lib
 ```
 ln -sf $(pwd)/launchd.plist ~/Library/LaunchAgents/com.schoonology.on-air.plist
 ```
+
+### Similar Projects
+
+* https://github.com/amenk/OnAirDaemon Toggle Tasmota Plugs via Bash Scripts based on Camera Status
+* https://github.com/sagilo/on-air A NodeJS Solution using MS Teams' Presence API
